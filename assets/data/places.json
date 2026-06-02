@@ -1,0 +1,123 @@
+{
+  "cities": [
+    {
+      "id": "neiva",
+      "name": "Neiva",
+      "center_lat": 2.9273,
+      "center_lng": -75.2819
+    },
+    {
+      "id": "bogota",
+      "name": "Bogotá",
+      "center_lat": 4.6097,
+      "center_lng": -74.0817
+    },
+    {
+      "id": "medellin",
+      "name": "Medellín",
+      "center_lat": 6.2518,
+      "center_lng": -75.5636
+    }
+  ],
+  "places": [
+    {
+      "id": "neiva_p1",
+      "name": "Monumento a la Gaitana",
+      "description": "Imponente escultura a orillas del Río Magdalena que rinde homenaje a la heroína indígena y la resistencia de la región.",
+      "city_id": "neiva",
+      "category": "culture",
+      "latitude": 2.9345,
+      "longitude": -75.2952,
+      "image_urls": ["https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrw_q4Xvwk1i7JeREDotc6QuCNL04Wkx9eh8NAAwnVGFx8e262efqexblvTQWbZr0dkC66UgZ6DaT-MT8MTYIez8PNMl7VzK89RxWz05BmqXPI_Jms_UW1uiC2iwYFk192-yXzPRw0vto/s1600/75+Monumento+a+La+Gaitana.+Neiva.jpg"],
+      "is_favorite": false
+    },
+    {
+      "id": "neiva_p2",
+      "name": "Parque Isla de la Gaitana",
+      "description": "Un espacio natural ideal para caminar, divisar el río Magdalena y disfrutar de la biodiversidad local en pleno corazón de la ciudad.",
+      "city_id": "neiva",
+      "category": "tourism",
+      "latitude": 2.9312,
+      "longitude": -75.2931,
+      "image_urls": ["https://tsmnoticias.com/wp-content/uploads/2022/10/Parque-Isla-de-Neiva-habilitara-al-publico-sus-senderos-adoquinados-2.jpeg"],
+      "is_favorite": false
+    },
+    {
+      "id": "neiva_p3",
+      "name": "Restaurante El Patio Huilense",
+      "description": "El lugar perfecto para degustar el auténtico asado huilense, Juan Valerio e insignias de la gastronomía opita.",
+      "city_id": "neiva",
+      "category": "food",
+      "latitude": 2.9301,
+      "longitude": -75.2854,
+      "image_urls": ["https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/19/02/4a/lacasamasfrescadelbarrio.jpg?w=900&h=500&s=1"],
+      "is_favorite": false
+    },
+    {
+      "id": "bogota_p1",
+      "name": "Cerro de Monserrate",
+      "description": "El punto más famoso de la ciudad. Sube en teleférico o funicular para disfrutar de la mejor vista panorámica de Bogotá.",
+      "city_id": "bogota",
+      "category": "tourism",
+      "latitude": 4.6052,
+      "longitude": -74.0554,
+      "image_urls": ["https://www.triviantes.com/wp-content/uploads/2025/10/Cerro-de-Monserrate-1.jpg"],
+      "is_favorite": false
+    },
+    {
+      "id": "bogota_p2",
+      "name": "Museo del Oro",
+      "description": "Alberga la colección de orfebrería prehispánica más grande del mundo, un viaje imperdible por la historia indígena.",
+      "city_id": "bogota",
+      "category": "culture",
+      "latitude": 4.6017,
+      "longitude": -74.0721,
+      "image_urls": ["https://caminatasecologicasbogota.com/wp-content/uploads/2019/06/museo-del-oro-bogota-colombia.jpg"],
+      "is_favorite": false
+    },
+    {
+      "id": "bogota_p3",
+      "name": "La Puerta Falsa",
+      "description": "El restaurante más antiguo de la ciudad, famoso por su chocolate completo, tamales y postres tradicionales.",
+      "city_id": "bogota",
+      "category": "food",
+      "latitude": 4.5975,
+      "longitude": -74.0736,
+      "image_urls": ["https://www.elespectador.com/resizer/v2/NKRAZIQEAJBIZOJSXFHNE5WGNU.png?auth=12ea4ba60b4b236aca5d09716194dc74aef2391817ab3fd80cea30839b0c8f66&width=920&height=613&smart=true&quality=60"],
+      "is_favorite": false
+    },
+    {
+      "id": "medellin_p1",
+      "name": "Plaza Botero",
+      "description": "Un museo al aire libre que exhibe 23 majestuosas esculturas de bronce donadas por el maestro Fernando Botero.",
+      "city_id": "medellin",
+      "category": "culture",
+      "latitude": 6.2522,
+      "longitude": -75.5686,
+      "image_urls": ["https://media-cdn.tripadvisor.com/media/photo-s/0d/87/3a/7a/photo4jpg.jpg"],
+      "is_favorite": false
+    },
+    {
+      "id": "medellin_p2",
+      "name": "Jardín Botánico Joaquín Antonio Uribe",
+      "description": "Un oasis verde en medio de la ciudad, famoso por su imponente Orquideorama y sus tranquilas lagunas.",
+      "city_id": "medellin",
+      "category": "tourism",
+      "latitude": 6.2704,
+      "longitude": -75.5644,
+      "image_urls": ["https://margarethrivera.hotglue.me/?jardin+botanico.head.168070662146"],
+      "is_favorite": false
+    },
+    {
+      "id": "medellin_p3",
+      "name": "Mercado del Río",
+      "description": "Un moderno mercado gastronómico con decenas de propuestas que van desde la comida típica antioqueña hasta platos internacionales.",
+      "city_id": "medellin",
+      "category": "food",
+      "latitude": 6.2239,
+      "longitude": -75.5714,
+      "image_urls": ["https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/04/21/ae/mercado-del-rio.jpg?w=900&h=500&s=1"],
+      "is_favorite": false
+    }
+  ]
+}
