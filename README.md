@@ -1,8 +1,8 @@
-# 🇨🇴 TurismoLocal Colombia
+# Turis_Colombia
 
 En la actualidad, los viajeros y turistas que visitan Colombia carecen de una herramienta digital unificada que les permita descubrir, organizar y compartir lugares de interés (restaurantes, sitios turísticos, eventos culturales) de manera sencilla y sin depender de conexión a internet. Muchos recurren a búsquedas dispersas en redes sociales o aplicaciones genéricas que no ofrecen una experiencia personalizada ni la posibilidad de contribuir con nuevos lugares.
 
-**TurismoLocal Colombia** es una aplicación móvil que resuelve esta problemática, permitiendo a los usuarios explorar los mejores lugares para visitar en las principales ciudades del país, filtrar por categorías, visualizar ubicaciones en un mapa interactivo y gestionar su propia información de forma 100% offline.
+**Turis_Colombia** es una aplicación móvil que resuelve esta problemática, permitiendo a los usuarios explorar los mejores lugares para visitar en las principales ciudades del país, filtrar por categorías, visualizar ubicaciones en un mapa interactivo y gestionar su propia información de forma 100% offline.
 
 ---
 
@@ -50,10 +50,3 @@ El proyecto sigue los principios de **Clean Architecture** (Arquitectura Limpia)
 | **`main` / `master`** | Rama principal con las versiones estables y listas para despliegue de la aplicación. |
 
 ---
-
-## 💻 Instrucciones de Instalación y Uso
-
-1. Asegúrate de tener instalado el SDK de Flutter en tu máquina.
-2. Clona este repositorio en tu entorno local:  
-```bash
-   git clone [https://github.com/tu-usuario/tu-repositorio.git](https://github.com/tu-usuario/tu-repositorio.git)
